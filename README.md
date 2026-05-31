@@ -15,14 +15,13 @@ Build things that matter. Ship things that work. Learn everything else.
 <br>
 
 [![Resume](https://img.shields.io/badge/📄%20My%20Resume-00C853?style=for-the-badge&logoColor=white)](https://github.com/IshanSirohi/IshanSirohi/raw/main/Ishan_Sirohi_Resume.pdf)
-[![Portfolio](https://img.shields.io/badge/🌐%20My%20Portfolio-161B22?style=for-the-badge&logoColor=white)](https://your-portfolio.vercel.app)
 
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishan100sirohi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-sirohi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-sirohi-b51685297)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IshanSirohi)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/IshanSirohi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/IshanSirohi/)
 
 <br>
 
@@ -175,11 +174,19 @@ Build things that matter. Ship things that work. Learn everything else.
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishan100sirohi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-sirohi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-sirohi-b51685297)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IshanSirohi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/IshanSirohi/)
 
 <br>
+
+```
+  📧  ishan100sirohi@gmail.com
+  🔗  linkedin.com/in/ishan-sirohi-b51685297
+  💻  github.com/IshanSirohi
+  🧩  leetcode.com/u/IshanSirohi
+  📍  Meerut, India
+```
 
 ---
 
