@@ -161,9 +161,9 @@ Build things that matter. Ship things that work. Learn everything else.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshanSirohi/IshanSirohi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshanSirohi/IshanSirohi/output/github-contribution-grid-snake.svg" />
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/IshanSirohi/IshanSirohi/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshanSirohi/IshanSirohi/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshanSirohi/IshanSirohi/output/pacman-contribution-graph.svg" />
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/IshanSirohi/IshanSirohi/output/pacman-contribution-graph.svg" />
 </picture>
 
 </div>
