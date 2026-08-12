@@ -14,7 +14,7 @@ Build things that matter. Ship things that work. Learn everything else.
 
 <br>
 
-[![Resume](https://img.shields.io/badge/📄%20My%20Resume-00C853?style=for-the-badge&logoColor=white)](https://github.com/IshanSirohi/IshanSirohi/raw/main/Ishan_Sirohi_Resume.pdf)
+[![Resume](https://img.shields.io/badge/📄%20My%20Resume-00C853?style=for-the-badge&logoColor=white)](https://github.com/IshanSirohi/IshanSirohi/raw/main/Resume_6__2nd_.pdf)
 
 <br>
 
